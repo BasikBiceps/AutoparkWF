@@ -1,1 +1,7 @@
-AutoparkWFV1.0.sln
+.vs/
+Account/bin/
+Account/obj/
+AutoparkWFV1.0/bin/
+AutoparkWFV1.0/obj/
+Car/bin/
+Car/obj/
